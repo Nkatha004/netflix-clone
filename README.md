@@ -43,6 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
+
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
@@ -72,8 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 The application:
 
 <img width="1439" alt="Screenshot 2023-11-27 at 11 43 33" src="https://github.com/Nkatha004/netflix-clone/assets/69391540/b7152750-d2fa-46c9-a512-9838db51c277">
-![Uploading Screenshot 2023-11-27 at 11.44.09.png…]()
-
+<img width="1439" alt="Screenshot 2023-11-27 at 11 53 08" src="https://github.com/Nkatha004/netflix-clone/assets/69391540/1585b07a-6793-4fcf-9679-53a765e28127">
 
 
 
